@@ -1,4 +1,4 @@
-# zoom-effect
+# Zoom Effect
 
 Press Z key to enable and disable Zoom effect
 
