@@ -2,8 +2,7 @@
 
 Press Z key to enable and disable Zoom effect
 
-Link- https://lalitkumar4.github.io/zoom-effect/
+[Live Demo](https://lalitkumar4.github.io/zoom-effect/)
 
-Inspired by a tutorial from Florin Pop.
+This project is inspired by a tutorial from [Florin Pop](https://github.com/florinpop17).
 
-Creator: [Florin Pop](https://github.com/florinpop17)
